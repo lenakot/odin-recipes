@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(213, 226, 252);
+}
+
+h1 {
+    text-align: center;
+}
+
+#list_links {
+    display: flex;
+    flex-direction: column;
+}
+
+.links {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(26, 46, 85);
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    margin: 0 auto;
+    border: 2px solid rgb(26, 46, 85);
+}
+
+button {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.sections {
+    font-size: larger;
+    font-style: italic;
+}
+
+.description {
+    font-size: 15px;
+    text-align: justify;
+}
